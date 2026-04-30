@@ -97,11 +97,13 @@ extra:
       link: https://github.com/acolono/leichte-sprache
       name: GitHub Repository
 
-copyright: Copyright &copy; 2024 Leichte Sprache API Team
+copyright: Copyright &copy; 2026 ACOLONO GmbH. Licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
 
 # Development server settings
 dev_addr: '127.0.0.1:8080'
 
-# Build settings
+# Source and build settings
+docs_dir: src
+site_dir: docs
 strict: false
 use_directory_urls: true
